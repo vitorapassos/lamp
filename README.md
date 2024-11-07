@@ -1,4 +1,4 @@
 # lamp
 Lamp
 
-![](https://github.com/vitorapassos/lamp/blob/main/img/lamp_qr.png?raw=true)
+![](https://github.com/vitorapassos/lamp/blob/main/img/qrcode_hospedado.png?raw=true)
