@@ -24,7 +24,7 @@ function onoff() {
     if (quebrada === true) {
         if (quebrada === true && interruptor2.src === 'http://127.0.0.1:5500/img/swoff.png' ) {
             document.getElementById('interruptor').src = "img/swon.png"
-        } else if( quebrada === true && interruptor2.src !== 'http://127.0.0.1:5500/img/swoff.png') {
+        } else if( quebrada === true) {
             document.getElementById('interruptor').src = "img/swoff.png"
         }
     } else {
